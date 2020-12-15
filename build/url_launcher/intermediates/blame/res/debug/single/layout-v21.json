@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/wissensquelle/Desktop/food-delivery-app-master/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/wissensquelle/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/f2d99c048bdb24d10d42f05d82033b5b/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/wissensquelle/Desktop/food-delivery-app-master/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/wissensquelle/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/f2d99c048bdb24d10d42f05d82033b5b/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/wissensquelle/Desktop/food-delivery-app-master/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/wissensquelle/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/f2d99c048bdb24d10d42f05d82033b5b/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/wissensquelle/Desktop/food-delivery-app-master/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/wissensquelle/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/f2d99c048bdb24d10d42f05d82033b5b/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

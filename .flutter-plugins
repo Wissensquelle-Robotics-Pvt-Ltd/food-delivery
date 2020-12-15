@@ -1,0 +1,25 @@
+# This is a generated file; do not edit or check into version control.
+braintree_payment=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/braintree_payment-1.2.4/
+firebase_admob=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.3+2/
+firebase_auth=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.14.0+9/
+firebase_core=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.5/
+firebase_core_web=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.1.1+2/
+firebase_messaging=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-5.1.8/
+flutter_local_notifications=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-1.4.4+4/
+flutter_plugin_android_lifecycle=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.9/
+fluttertoast=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-4.0.1/
+geocoder=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/geocoder-0.2.1/
+geolocator=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.2+2/
+google_api_availability=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.4/
+google_maps_flutter=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.31/
+libphonenumber=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/libphonenumber-1.0.2/
+location=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/location-3.0.1/
+location_permissions=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-3.0.0+1/
+location_web=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/location_web-1.0.0/
+razorpay_flutter=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.2/
+shared_preferences=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.4+5/
+sms_otp_auto_verify=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sms_otp_auto_verify-1.2.2/
+stripe_payment=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/stripe_payment-1.0.8/
+url_launcher=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.4.10/
+url_launcher_macos=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+7/
+url_launcher_web=/Users/wissensquelle/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.2/

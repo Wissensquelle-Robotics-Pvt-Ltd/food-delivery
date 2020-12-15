@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/wissensquelle/Desktop/food-delivery-app-master/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/wissensquelle/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/20e9f7a24907329d7b0c5c8a8bc4bb11/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "804",
+                        "endLines": "16",
+                        "endColumns": "10",
+                        "endOffsets": "971"
+                    }
+                },
+                {
+                    "source": "/Users/wissensquelle/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/62bc919872250b2685abfb2b5b3a910c/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "/Users/wissensquelle/.gradle/caches/transforms-1/files-1.1/jetified-drop-in-4.5.0.aar/086b383904559827e45f5f5363b924f0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,131,202,264,325",
+                        "endColumns": "75,70,61,60,59",
+                        "endOffsets": "126,197,259,320,380"
+                    },
+                    "to": {
+                        "startLines": "5,6,10,11,12",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "264,340,621,683,744",
+                        "endColumns": "75,70,61,60,59",
+                        "endOffsets": "335,406,678,739,799"
+                    }
+                },
+                {
+                    "source": "/Users/wissensquelle/.gradle/caches/transforms-1/files-1.1/jetified-card-form-4.2.0.aar/5cdb4deccba984541843ba61c1349302/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,192",
+                        "endColumns": "63,72,72",
+                        "endOffsets": "114,187,260"
+                    },
+                    "to": {
+                        "startLines": "7,8,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "411,475,548",
+                        "endColumns": "63,72,72",
+                        "endOffsets": "470,543,616"
+                    }
+                }
+            ]
+        }
+    ]
+}

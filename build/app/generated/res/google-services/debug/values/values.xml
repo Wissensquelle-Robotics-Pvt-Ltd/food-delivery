@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">656052160555-76ecqi9mjpufm7v9t61mf8on79ulaf27.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">656052160555</string>
+    <string name="google_api_key" translatable="false">AIzaSyC9TSfEF1_GTQJWjJ5lmwCzpixkPx6-4XI</string>
+    <string name="google_app_id" translatable="false">1:656052160555:android:b96cf5e9375a8c3fd4c26e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC9TSfEF1_GTQJWjJ5lmwCzpixkPx6-4XI</string>
+    <string name="google_storage_bucket" translatable="false">foodzone-app-13ad0.appspot.com</string>
+    <string name="project_id" translatable="false">foodzone-app-13ad0</string>
+</resources>

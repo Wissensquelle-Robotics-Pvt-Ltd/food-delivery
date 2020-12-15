@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.stripe:stripe-android:10.4.6@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-stripe-android-10.4.6.aar/6c0e5c30d1554800e598f5ff2c6e3344/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-stripe-android-10.4.6.aar/6c0e5c30d1554800e598f5ff2c6e3344/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-stripe-android-10.4.6.aar/6c0e5c30d1554800e598f5ff2c6e3344/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-stripe-android-10.4.6.aar/6c0e5c30d1554800e598f5ff2c6e3344/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.stripe/stripe-android/10.4.6/bcfc81bb3a96627e5e1dc40fd3f6d0e8e7cb46e7/stripe-android-10.4.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.stripe/stripe-android/10.4.6/45ccad4189bc58ff2881ec0e4ca1624fa4a8831f/stripe-android-10.4.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

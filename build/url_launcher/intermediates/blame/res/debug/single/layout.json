@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/wissensquelle/Desktop/food-delivery-app-master/build/url_launcher/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/wissensquelle/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/f2d99c048bdb24d10d42f05d82033b5b/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/wissensquelle/Desktop/food-delivery-app-master/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/wissensquelle/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/f2d99c048bdb24d10d42f05d82033b5b/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/wissensquelle/Desktop/food-delivery-app-master/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/wissensquelle/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/f2d99c048bdb24d10d42f05d82033b5b/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/wissensquelle/Desktop/food-delivery-app-master/build/url_launcher/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/wissensquelle/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/f2d99c048bdb24d10d42f05d82033b5b/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/wissensquelle/Desktop/food-delivery-app-master/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/wissensquelle/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/f2d99c048bdb24d10d42f05d82033b5b/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/wissensquelle/Desktop/food-delivery-app-master/build/url_launcher/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/wissensquelle/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/f2d99c048bdb24d10d42f05d82033b5b/res/layout/notification_action.xml"
+    }
+]

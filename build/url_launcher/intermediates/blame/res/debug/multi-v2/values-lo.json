@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/wissensquelle/Desktop/food-delivery-app-master/build/url_launcher/intermediates/res/merged/debug/values-lo/values-lo.xml",
+            "map": [
+                {
+                    "source": "/Users/wissensquelle/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/f2d99c048bdb24d10d42f05d82033b5b/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/wissensquelle/Desktop/food-delivery-app-master/build/url_launcher/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml",
+            "map": [
+                {
+                    "source": "/Users/wissensquelle/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/f2d99c048bdb24d10d42f05d82033b5b/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
